@@ -1,6 +1,16 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main(){
-    cout<<"hello world"
-    cout<< "hello world"
+int main()
+{
+    int age = 18;
+    cout << age;
+
+    if (age >= 18)
+    {
+        cout << "adult";
+    }
+    else
+    {
+        cout << "children";
+    }
 }
