@@ -10,5 +10,6 @@ int main(){
     	count++;
 	}
 	cout<<count;
+    cout<<"this is the total count";
 
 }
